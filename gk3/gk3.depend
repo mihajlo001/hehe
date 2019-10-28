@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572175923 source:c:\users\administrator\desktop\programiranjeef e\gk3\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+	<stdexcept>
+
